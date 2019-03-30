@@ -1,0 +1,408 @@
+
+
+<!DOCTYPE html>
+<html lang="en" class="en">
+<head>
+    
+    <meta charset="utf-8">
+
+    
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+
+    
+
+    
+    
+        <script nonce='jqvgOVTOmX' src="https://i.pinimg.com/assets/js/warm.js?_=1553965157076" async defer></script>
+    
+
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gpdjojdkbbmdfjfahjcgigfpmkopogic">
+
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    
+
+    
+    
+
+    <script nonce='jqvgOVTOmX'>
+        (function(){function g(a,b){d||(d=b,c=a,h=new Date,k(removeEventListener),l())}function l(){0<=c&&c<h-m&&(e.forEach(function(a){a(c,d)}),e=[])}function n(a,b){function c(){g(a,b);e()}function d(){e()}function e(){removeEventListener("pointerup",c,f);removeEventListener("pointercancel",d,f)}addEventListener("pointerup",c,f);addEventListener("pointercancel",d,f)}function p(a){if(a.cancelable){var b=(1E12<a.timeStamp?new Date:performance.now())-a.timeStamp;"pointerdown"==a.type?n(b,a):g(b,a)}}function k(a){["click", "mousedown","keydown","touchstart","pointerdown"].forEach(function(b){a(b,p,f)})}var d,c,h,e=[],f={passive:!0,capture:!0},m=new Date;k(addEventListener);self.perfMetrics=self.perfMetrics||{};self.perfMetrics.onFirstInputDelay=function(a){e.push(a);l()}})();
+    </script>
+
+    
+     
+<script nonce="jqvgOVTOmX">window.isMainPinterestSite = true;var Pc = {"IS_TEST_MODE": null, "authenticationOrigin": "https://www.pinterest.com", "trfExperiments": {"active": {"seo_amp_unauth_pin_grid_view_button": "control", "seo_pin_grid_style_format_optimization": "control_1", "seo_social_proof_description_v1": "control", "seo_pin_title_cleanup_v1": "control", "seo_amp_ios_unauth_plp_direct_clickthrough": "enabled_rollout", "seo_pin_page_annotation_based_noindex": "control_5", "seo_unauth_web_pin_grid_css_optimization": "enabled_25", "seo_amp_canonical": "control_3", "seo_amp_auth_closeup_view_button_gate": "enabled"}}, "experiments": {"active": {"unauth_pin_perf_umbrella": "enabled", "mweb_web_full_node_context_log_resource": "enabled"}, "_f": true, "triggerable": {"pinnability_extended_hides_v3": "retrain", "copytune_popular_pins_with_topics_push_v3_engb": "variant_0", "ads_accelerated_pacing": "enabled", "sterling_limit_ocpm_targeting": "enabled", "us_open_umbrella_pin_pure_react": "enabled_rollout", "web_unauth_homepage_title": "control", "bosun_test1": "bosun_test1_10", "soc_pin_msg_rep_cleanup_and_reaction_ios": "soc_pin_msg_rep_cleanup_ios", "bosun_test5": "no_internal", "web_short_click_through_related_pins_upsell": "enabled_toast", "conversion_report_time_type_radio": "enabled_tooltip", "hybrid_search_full_scoring_update": "enabled", "web_limited_login_personalized_flyout": "enabled", "www_mqtt_dau_removal": "control", "web_unauth_use_client_aux_data": "enabled", "web_email_setting_redesign": "enabled_excludeverything", "ads_relevance_models_in_scorpion": "v1_enabled", "smb_adhoc_email_adformats_v2": "enabled", "web_board_invite_collab_flyout": "control", "att_backend_variable_budgeting_downgrades": "enabled_plus_3_forever", "locations_targeting_redesign_mmvp": "enabled", "sterling_reporting_flat_view": "enabled", "us_open_umbrella_pin": "rollout", "smb_qp_pin_annotation_use_instant_pin_join": "enabled", "smb_test_partners_not_spenders_not_targeted": "control", "pinnability_retrain_prod_ljv2_v2": "retrained_prod_ljv2_06_07", "more_ideas_newshub_notifications": "enabled", "ads_search_pixie_query": "enabled", "sterling_async_exports": "enabled", "ads_scale_comp_bid_jan2019": "75pct", "sterling_reporting_full_page_settings": "enabled", "interest_prediction_model_pp": "enabled_subject", "sterling_edit_bulk_action_button": "enabled", "p2p_model_v4_local_feature": "control_base_local_feature_scorpion_trained", "contacts_search_allowed_tags_group": "enabled", "community_rules": "enabled", "ppm_upload_test": "enabled", "ads_enable_age_targeting": "launched_10_18", "pinner_follower_count_board": "enabled_30", "ads_muse_campaign_spend_cap": "launch", "ads_bulkv2_video": "enabled", "did_it_image_pipeline_experiment": "enabled", "ads_enable_odc_revenue_share": "enabled_rollout", "biz_growth_login_loading_mask": "control", "sterling_bulk_v2": "enabled", "web_desktop_carousel": "enabled", "sterling_audiences_react": "enabled", "web_compose_message_button_position": "control", "dpe_test_60_percent": "control", "copytune_sp_test_contact_request_push_v2": "variant_2", "web_hf_upsell_from_landing_parent": "web_hf_upsell_from_landing_tooltip_pulsar", "hf_delay_stories_greenlets": "enabled_ship", "sterling_canada": "enabled", "partner_source_page_email": "control", "mweb_web_full_node_advanced_typeahead_resource": "enabled", "biz_growth_profile_header_qps_gate": "enabled", "ads_scorpion_preprocessor": "enabled_all_scoring", "biz_growth_convert_modal": "control", "copytune_unauth_bottom_black_banner_frfr": "control", "sterling_bulk_validation": "control", "featured_home_bot_decider": "enabled", "follow_tab_email_fr": "control", "ads_hf_psa": "ads_hf_repin_complementary_bid_v3", "biz_growth_upgrade_user_registration": "enabled", "sterling_adgroup_name_search_selector": "enabled", "unauth_web_minimize_related_pin_field_sets": "enabled", "ad_group_start_end_time": "enabled", "sterling_bulk_simplification_page": "enabled", "smartfeed_refactor": "enabled1", "ads_disable_flatten_pinnerlist_experiment": "control_0109", "creators_story_pins_display": "enabled", "p2p_model_v4_multihead": "1p3_boost_in_pinacle_enabled_multihead", "sterling_flat_view_custom_export": "enabled", "creation_remove_likes_phase_1": "enabled_rollout", "copytune_webapp_welcome_to_pinterest_aa_unauth": "variant_0", "p2p_model_v4_compact_pterm_av5_matching": "enabled_p2p_prod_v5_compact_pterm_av5_matching", "p2p_pin2vec_v1": "enabled_model_20180816_v2", "ads_lifts_holdout_dovebw_q1_2019": "enabled", "web_impressions_with_iframe": "enabled", "flashlight_camera_unified_embedding_v1": "enabled", "web_eg_windows_pwa": "control", "sterling_home_page_react": "enabled", "smb_qp_no_link": "control", "p2p_model_v4_pin_level_features": "control_p2p_prod_v6_pin_level_features_base", "play_gif_pins": "control", "content_safety_ux_self_harm_banner": "enabled", "web_eg_closeup_left_right_arrow_navigate": "control_left", "smb_qp_auto_targeting2": "enabled", "mweb_web_full_node_activate_experiment_resource": "enabled", "mweb_web_full_node_advanced_typeahead_resource_v2": "enabled", "smb_ads_credit_email_activation_v2": "control", "ads_android_mweb_one_tap_login_landing": "one_button2", "ads_ocpm_abc_campaign": "enabled1", "smb_adhoc_email_ad_goals": "control", "sterling_belgium_netherlands": "enabled", "www_mqtt_video_impressions": "control", "ads_hf_muse_l15_201811_ocpm": "0305_ocpm_vt_025_0", "ads_hf_user_embeddings": "rollout", "us_open_umbrella_klp_pure_react": "enabled_rollout", "topics_idc_whitelist_videos": "score_sort_med", "ads_customer_list_v2_experiment": "enabled", "p2p_model_v4_user_profile_and_stats": "control_p2p_prod_v6", "ads_recent_interests_cv5_v2": "control_subset", "commerce_pin_matching": "enabled_image", "related_products_model": "related_products_coteries_neardup_product_features", "sterling_loi_sapin_modal": "enabled", "smb_live_chat_real_test": "enabled", "copytune_web_search_term_in_back_button": "query_only", "story_pins_domain_idc_v3": "score_sort_core_casual_marginal", "copytune_desktop_cta_bizacct_top_frfr": "control", "sp_smaller_pin_image_previews": "enabled_smaller_preview_pin_image_2", "unauth_hybrid_tier3_fr": "enabled_rollout", "web_pin_download_good_filenames_v2": "control", "ads_autoplay_video": "rollout", "ads_hf_quality": "holdout_enabled", "email_following_feed_digest_v5": "enabled", "pfy_pixie_query_expansion_exp": "query_expansion_true", "ads_user_interests": "ads_coteries_dynamic_threshold", "smb_web_redirect_to_fac": "enabled", "sterling_reporting_navigation": "enabled_tabs", "smb_sterling_feature_introductions": "control", "smb_audience_closeup_non_partner": "enabled", "homefeed_ranking_top_level_experiment": "blender_utility_ksearch_with_video", "sterling_show_audience_video_targeting": "enabled", "web_unauth_show_recaptcha_for_login_ip_rate_limit": "control", "ads_recent_interests_cv5": "enabled_click_closeup", "sterling_save_preferences": "enabled", "unauth_eg_windows_pwa": "enabled", "ads_graphsage_v3_experiment": "rollout", "ads_remove_video_boost": "enabled", "sterling_italy_spain": "enabled", "ads_log_plain_mobile_advertiser_id": "enabled", "social_email_send_message": "control", "through_reward_gemini_idc": "enabled", "us_open_umbrella_board_pure_react": "enabled_rollout", "copytune_popular_pins_with_topics_email_v3_frfr": "variant_0", "p2p_model_v4_food_annotation": "enabled_p2p_prod_v3_with_food", "crea": "enabled", "sterling_flat_view_search_terms": "enabled", "email_ranking_and_dynamic_cooldown_rollout": "enabled", "copytune_popular_pins_with_topics_push_v3_itit": "variant_0", "bubble_migration_experiment": "control", "ads_search_q2i_models_v3_unified": "control", "ads_muse_shopping_overbudget_segmented": "enabled", "web_masonry_parent": "masonry_early_fetch", "amp_ios_unauth_plp_direct_clickthrough": "control", "_unauth_web_minimize_pin_field_sets": "enabled", "web_eg_scroll_spinner_height": "enabled_400", "p2p_model_v4_food_only": "control_p2p_prod_v3", "pinnability_extended_hides_combined_tfr_v3": "retrained_prod_ljv2", "pinnability_extended_hides_combined_tfr_v2": "extended_maxpos2_nw32", "through_reward_gemini_fresh": "control", "sterling_react_migration": "enabled", "blender_utility_ksearch_with_video": "control", "email_preheader_popular_pins": "control", "test_mohak_2": "enabled", "www_unauth_measure_tti": "enabled", "sterling_i18n_export_v1": "enabled", "amp_unauth_pin_grid_view_button": "control", "smb_web_qp_promoted_pin_preview": "enabled", "us_open_umbrella": "rollout", "sterling_nux_to_campaign": "nux_to_campaign", "web_videos_tab_on_profile": "control", "ads_expanded_targeting_all_interests": "enabled2", "ads_ranking_relevance_v3": "v7_rollout", "pg_analytics_merchandising_decider": "enabled", "showcase_web": "enabled", "pin_page_annotation_based_noindex": "control_5", "smb_toggle_promoted_pins": "enabled_per_session", "ads_complementary_bid_video_view_rate": "control_cpm_qf", "sterling_campaign_name_search_selector": "enabled", "web_unauth_fb_welcome_v2": "enabled", "use_cases_h1_hf_integration_parent": "story", "blender_video_insertion_utility_v2": "enabled_1", "smb_qp_pin_annotation_actually_sort_list": "enabled", "ads_multicontext_related_pin": "enabled_3000_adv5", "web_smb_land_paid_on_profile": "enabled", "copytune_popular_pins_with_topics_push_v3_dede": "control", "ads_landing_page_quality": "enabled_zero_one_ctr_1500_0319", "sterling_buyable_cpc": "enabled", "web_auto_accept_board_invite_email": "enabled", "ads_search_l15_gctr_v2": "control", "ads_derived_interests_with_latest_q2i_model": "enabled_v3", "blender_utility_diversity_tuning_dummy": "enabled_1", "ads_model_budget_ocpm_clickthrough_webcheckout": "0325_a15_c", "web_limited_login_autologin": "enabled", "copytune_unauth_landing_bold_valueprop_itit": "control", "sterling_frequency_target": "enabled", "ppm_test_180day_us_females": "control", "web_unauth_category_hybrid_tiers": "enabled_weddings", "pfy_local_pixie_query_expansion_exp_v2": "local_query_expansion_false", "realtime_video_flags_exp_v1": "demote_after_4_flags", "ads_related_pins_web_conversion": "v2_enabled_restricted", "smb_qp_new_layout": "enabled", "web_following_tab_for_pfy_off_users3": "enabled2_no_toast", "sterling_germany": "enabled", "pinnability_automl_scorpion_ipjrd_holdout": "new_prod", "smb_web_fac_page_nux": "control", "bosun_onepage": "control", "news_hub_disable_social_aa_new": "enabled", "ads_muse_advertiser_dedup": "launch", "smb_web_fac_retarget_no_completes": "control", "check_manual_pin_content_review_v2": "enabled", "sterling_duplication_campaign_name_selector": "enabled", "tablet_unauth_full_duplo_rest_of_world": "control", "calibration_all_features_v5": "all_features", "interests_best_pins_esc": "interests_bestpins2_refresh_exp", "smb_growth_core_web_billing_notification2": "control", "ads_muse_related_pins_and_search_advertiser_dedup": "search_launch", "unified_comment_board_activity_web": "enabled", "sterling_reporting_custom_filters": "enabled", "web_unauth_hide_red_brand_flyout_bubble": "enabled", "smb_biz_nux_create_remove_nux_loader": "control", "adgro_no_name_field": "enabled", "smb_web_fac_page_nux_from_fpc": "enabled", "px_insights_partner_engagement_audience": "enabled", "sterling_bi_form_radio_validators": "enabled", "copytune_unauth_bottom_black_banner_itit_v2": "variant_0", "dedup_and_group_pin_creates_in_ft": "control", "sterling_billing_react": "enabled", "web_unauth_higher_password_reset": "control", "sterling_prefill_default_values": "enabled", "p2p_model_v4_compare_p2p_prod_v3": "enabled_p2p_prod_v3_20181228_20190117", "web_unauth_gtap_modal_copy": "enabled_google", "enable_asterix_promoted_pins": "enabled", "ads_model_budget_ocpm_clickthrough_websignup": "0311_h40_spfc1", "ads_engaged_pins_graphsage": "v1_control", "sterling_billing_react_i18n": "enabled", "ads_retrieval": "ads_hf_muse_l15_201811_ocpm", "smb_web_fac_pin_builder_is_advertiser_bug": "control", "ads_model_budget_rp_gctr30": "0315_r20_gj0", "biz_growth_linked_business_account": "enabled", "blender_utility_hide_report_penalty": "high_penalty", "sterling_bulk_simplification_reporting": "enabled", "web_social_unauth_response": "control", "ads_model_budget_shopping_hf_gctr30": "control", "use_cases_h2_experiment_parent": "enable", "board_collage_preview_copy_link": "enabled_board_collage_preview", "smb_web_pinner_promote_upsell": "enabled_promote_button_only", "sterling_flat_view_keyword_conversion": "enabled", "sterling_click_definition_update": "enabled", "ads_intent_based_parent": "ads_engaged_pins_interests", "copytune_homefeed_new_pins_email_v2_esar": "variant_0", "more_ideas_email_notifications": "enabled", "web_exit_fullscreen_on_video_end": "enabled", "ads_rank_all_ads": "launch_150pct", "featured_home_com": "control", "web_unauth_category_hair_beauty_tier": "enabled", "sterling_earned_video_avg_watchtime": "enabled", "web_video_v1_player": "enabled", "ads_search_adjust_relevance_score": "v3_hi_0p8_max_1p4_low_0p5_min_neg0p4", "web_unauth_hybrid_modal_parent": "modal_delay", "ads_broadmatch_38": "v7_enabled_pintext_western_europe", "ads_multicontext_homefeed": "launch", "paid_traffic_klp_less_seo_desktop": "control", "web_unauth_personalized_flyout": "enabled_2", "att_web_browsy_content_upsell_downgrades": "control", "web_unauth_fb_2tap_hide": "enabled_hide_v1_not_auth_rollout", "us_open_umbrella_board": "rollout", "trigger_control_json": "enabled", "ads_ussv2_recent_coteries": "enabled", "ads_video_slot_four_campaign": "enabled80", "copytune_popular_pins_with_topics_email_v3_esmx": "variant_0", "copytune_test_relaunch_NLHWO_v4": "variant_0", "archived_boards": "enabled", "related_products_coteries_neardup_product_features": "control_related_products_weights_sample_0125_v2", "ads_model_budget_rp_ctr_new_ads_prod": "0305_r20_video", "creator_weekly_trending_video_pins_email": "enabled", "att_web_browsy_content_upsell_mids": "control", "amp_cache_parent": "closeup", "hf_api_self_harm_filter": "enabled_annot_v2", "email_activation_series_test_1": "control", "ads_muse_advertiser_spend_cap": "launch", "ads_multicontext_search_v2": "v1_enabled_3", "web_email_unsubscribe_logged_user": "enabled_shipped", "sterling_interest_picker_germany": "enabled", "unauth_web_fastly_http2_images": "enabled_all", "sterling_keyword_auto_targeting": "enabled", "p2p_model_v4_objective_fix": "enabled_p2p_prod_v4_product_objective_fix", "web_board_actions_collaborators": "enabled_collaborators_button", "ads_update_ayden_sdk": "enabled", "web_hls_video": "enabled2_higher_start", "board_collage_preview_external_apps": "enabled_board_collage_preview", "web_unauth_hide_age_existing_email_v2": "enabled", "ads_rp_cap_pinner_value_2": "enabled_max_7214_ocpm_7214", "p2b_blacklisted_throughid_filter_exp_v3": "enabled", "ads_inter_page_cache_candidates_score": "rollout", "ads_engaged_pins_keywords": "v2_control_2", "sterling_reporting_column_picker": "enabled", "ads_model_budget_hf_ctr_new_ads_prod": "0305_h20_cprod", "ads_muse_shopping_campaign_spend_cap": "launch", "gemini_fresh_pfy_magicbox_top_level": "gemini_fresh_rate_limit", "smb_ads_credit_email_resurrection": "control", "ads_hf_repin_complementary_bid_v3": "v4_enabled_0_5dollar_1000_08_app_04", "web_loadable": "control", "ads_intent_based_v1": "v3_enabled_60_max_600", "pinnability_calibration_simulation_v2": "simulated_fpc", "pinnability_calibration_simulation_v3": "vanilla", "sterling_ads_tos": "enabled", "web_visual_autocomplete": "control", "unauth_web_lunch_hour_copy": "enabled_dream", "ads_related_pins_relevance_threshold": "v18_rgse_0025", "messenger_ext_new_share_v3": "enabled_rolllout", "ads_balance_component_weights_search": "gctr_0p8_rel_1p25_v2", "web_pin_builder_in_product_ed_v1": "web_pin_builder_board_flyout", "sp_invite_placeholder_text": "enabled_b", "web_empty_state_for_inbox": "control", "ads_shopping_hf_coteries": "v4_enabled_cand_450", "smartfeed_topical_feed_top_level_unified": "smartfeed_topical_feed_experimental_annotations_x15_hf_local", "ads_demo_attribution": "enabled_geo_age_v2", "sterling_duplication_objective_switching": "enabled", "sender_name_test_explore": "control", "web_page_title_in_tab_v2": "enabled_inverse_count_first", "ads_actalike_experiment": "model_v2lc8", "sterling_dont_send_all_campaigns": "enabled", "web_pincodes": "enabled", "pinnability_calibration_v8": "counter_serv", "sterling_reporting_sidebar": "enabled", "copytune_homefeed_new_pins_email_v2_frfr": "variant_1", "spotlight_detectron_v1_no_pad_try2": "enabled_detectron_v1_pad_10px", "boost_video_pins_in_recommendations_digest_pins": "enabled_rank_mixed_pins", "ppm_test_us_dormant_males_ios": "enabled", "sterling_conversion_report_time_type": "enabled", "featured_home_rollout": "rollout", "sterling_change_history": "enabled", "us_open_umbrella_klp": "rollout", "unauth_web_skeleton_loader_for_related_pins_only": "enabled_old_loader", "ads_targeting_non_sub_language": "enabled", "pinner_authority_cluster_v0": "enabled", "sterling_export": "enabled", "smb_qp_promote_button_text_3": "enabled", "smartfeed_pfy_selection_experiment": "through_reward_dui_cate_exp_v3", "notification_rate_limit_fix": "enabled", "through_reward_local_exp_hf_local": "enabled_04", "ads_coteries_dynamic_threshold": "control_0220", "ads_pacing_enable_perf": "weight_only", "web_business_account_upsell_experience": "enabled", "partner_trending_pin_email": "enabled", "email_pin_twins_creator_recs_v3": "enabled2", "tablet_unauth_full_duplo_app_focused": "enabled", "ads_interest_rollup": "enabled", "p2p_fresh_query_vs_expand_pixie": "enabled_textfilter_80", "unauth_hybrid_tier3_de": "enabled_rollout", "web_creators_story_pin_display": "enabled", "tapestry_direct_write_fallback_hf_local": "control", "pinnability_calibration_v7": "oldfeats_no_hf_perf", "keywords_in_flat_view": "enabled", "web_unauth_download_v2": "control", "ads_manager_keyword_reporting": "just_keyword_ad_group", "sterling_interest_suggestions_in_interests_picker": "enabled", "sterling_bid_floor_banner": "enabled", "sterling_paid_video_avg_watchtime": "enabled", "smb_adhoc_email_ad_formats": "control", "ab_dashboard_hide_results": "validate_failed", "smb_getting_started_webinar_email": "control", "ads_expanded_targeting_neural_networks": "v2_enabled_nn_p2p", "pinnability_retrain_prod_ljv2": "retrained_prod_ljv2", "blender_aspect_ratio_demote_tune_v2": "enabled125", "grandcentral_dto_push_dto_for_email_push_users": "enabled", "pinnability_cont_2019_01_29_exp": "prod", "smartfeed_topical_feed_ranking_top_level": "smartfeed_topical_feed_ranking_annotation_v5", "web_unauth_social_only_set_password": "control", "idc_score_sort": "enabled", "sterling_n_level_interest_taxonomy": "enabled", "use_cases_board_ideas_ads_v2": "enabled_relevance_floor_0200", "await_locale_bundle": "enabled", "bosun_test_bg": "employees", "ads_search_relevance_holdout": "rollout", "blender_utility_diversity_with_ksearch": "control", "smb_qp_billing_success_sterling_redirect": "enabled", "unauth_desktop_modal_opacity": "control", "p2p_model_v4_no_tpc_no_catvec": "enabled_p2p_prod_v5_no_tpc_no_cat", "ads_rp_relevance_filter_in_muse": "enabled", "ads_app_install": "rollout", "ads_shopping_hf_retargeting_alpha_testing": "enabled", "web_eg_back_from_closeup_scroll_to_top": "enabled", "ads_model_budget_shopping_rp_gctr30": "treatment", "smb_web_fac_back_button": "control", "ads_rp_prev_page_pins_graphsage": "v0_enabled_3", "copytune_unauth_relatedpin_title_pincloseup_frfr": "variant_0", "ads_dedup_ads_hf": "rollout", "att_web_browsy_content_upsell_predicteddgs": "enabled_animals", "smb_qp_default_budget": "enabled_twenty", "web_unauth_default_login_if_personalized_login": "enabled", "locations_targeting_redesign_postal_code": "enabled", "web_truncate_pin_descriptions": "enabled_no_title", "demmie_test_63": "enabled3", "story_pins_topics_idc_pin_annotations_rec_topics": "control", "ngjs_port_advanced_typeahead_resource": "control", "creation_remove_likes_phase_2": "enabled_rollout", "smartfeed_pfy_local_selection_top_level": "pfy_local_pixie_p2b_negative_filtering_v2", "sterling_i18n": "enabled", "smb_adhoc_email_ads_targeting": "enabled", "email_following_feed_digest_new_user": "enabled2", "ads_one_tap_cpm": "enabled", "copytune_desktop_cta_bizacct_top_esar_": "variant_0", "sterling_mua_am_fm_gatekeeper": "enabled", "web_update_board_collab_invite_banner": "enabled", "ems_budgeting_enable_neuron_channel_filtering": "control", "use_cases_more_ideas_batch_p2p_v2": "enabled_bs_pns_ptn_tnfalse_pa_rmw60", "interests_bestpins2_auto_refresh_renux": "enabled", "copytune_rdp_push_notification_v4": "variant_0", "ads_shopping_retargeting": "control", "web_new_message_names": "control", "notification_settings_migration": "enabled7", "organizational_features_email": "enabled", "smb_qp_pin_annotation_interest_type": "enabled_threshold_seven", "copytune_sp_test_new_message_subject_v1": "control", "web_auth_board_page_as_blp": "enabled_rollout", "copytune_cpp_no_topic_email_female_engb": "control", "sterling_campaign_duplication": "enabled", "copytune_cpp_no_topic_email_female_frfr": "variant_2", "copytune_popular_pins_with_topics_push_v3_frfr": "variant_0", "ads_hf_query_consolidation_v4": "enabled100_1008", "web_pin_scheduling_create": "enabled", "web_perf_hf_fieldset_cleanup": "enabled", "ads_model_budget_ocpi_1t": "0325_a30_ctrl", "ads_rp_adjust_relevance_score": "v4_hi_0p6_max_1p4_low_0p25_min_neg0p4", "p2p_repin_clt_related_pins_v4": "enabled7", "ads_longwindow_cvr_ocpm": "enabled_only_checkout_signup_w_l1_l15", "magicbox_pixie_query_expansion": "query_expansion_true", "related_pins_model_v4": "p2p_model_v4_pin_level_features", "more_ideas_push_notifications": "enabled", "hf_relevance_survey": "enabled", "ads_hf_muse_lightweight_score_holdout": "enabled", "partner_what_to_pin_email": "control"}}, "DEBUG": false, "FB_KEY": "274266067164", "siteConst": {"PIN_MARGIN": 14, "MAX_COLUMNS": 10, "MIN_COLUMNS": 3, "PRESENTER_BUTTON_MODULE_NAME": "DropdownButton", "PIN_WIDTH": 236}, "expns": {}, "adsAPIDomain": "https://api.pinterest.com", "copytune_experiments": {"translations": {"View --- Text on a pin leading to a close up view. This is for users who don't have an account on Pinterest.": "Open", "Sign up with email --- the description of sign up with email button on sign up modal": "Continue with email", "Access our best ideas with a free account --- Value prop on desktop signup modal": "Unlimited free access to the world's best ideas", "Results --- Button label to go back to search results page": "\"{{ searchQuery }}\""}, "triggerable": {"Results --- Button label to go back to search results page": "copytune_web_search_term_in_back_button"}}, "trustedHostnameEnding": "pinterest.com", "canonicalMainDomain": "www.pinterest.com", "upwtActionName": 101};window.P = window.P || {};window.addEventListener('error', function(errorEvent) {
+  function getCookie(cookie) {
+    const value = '; ' + document.cookie;
+    const parts = value.split('; ' + cookie + '=');
+    if (parts.length == 2) {
+      return parts.pop().split(';').shift();
+    } else {
+      return '';
+    }
+  }
+
+  function serializeParam(data) {
+    return Object.keys(data).map(function(key) {
+      return key + '=' + encodeURIComponent(data[key]);
+    }).join('&');
+  }
+
+  function formatError(e) {
+    const error = e.error || {};
+    return {
+      name: error.name,
+      message: error.message || e.message,
+      stacktrace: error.stack,
+      filename: e.filename,
+      line: e.lineno,
+      column: e.colno,
+    };
+  }
+
+  let reportData;
+  try {
+    reportData = JSON.stringify({ errorObj: formatError(errorEvent) });
+  } catch (e) {
+    reportData = JSON.stringify({
+      errorObj: { message: e.message },
+    });
+  }
+
+  const xhr = new XMLHttpRequest();
+
+  xhr.open('post', '/_/_/report/error/', true);
+  xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+  xhr.setRequestHeader('X-CSRFToken', getCookie('csrftoken'));
+  xhr.send(
+    serializeParam({
+      report_context: JSON.stringify({ current_url: window.location.href }),
+      report_data: reportData,
+    })
+  );
+});
+var onImageLoad = function(event) {
+  if (!window.pwtTempStorage) {
+    window.pwtTempStorage = {};
+  }
+
+  var tgt = event.target;
+  var dataImagePrefix = 'data:image';
+  var pEl = tgt.parentElement;
+  var p2El = pEl && pEl.parentElement;
+  if (tgt.tagName === 'IMG' && ((pEl && pEl.dataset && pEl.dataset.pwt === 'true') ||
+    (p2El && p2El.dataset && p2El.dataset.pwt === 'true'))) {
+    var key = tgt.src && tgt.src.substr(0, dataImagePrefix.length) === dataImagePrefix ?
+      tgt.src : tgt.src.split('/').pop();
+    if (!window.pwtTempStorage[key]) {
+      var nowRelativeToNavigation = window.performance.now();
+      window.pwtTempStorage[key] = {
+        time: nowRelativeToNavigation,
+        visibility: window.getComputedStyle(tgt).visibility,
+        loadEpochTimestamp: window.performance.timing.navigationStart + nowRelativeToNavigation,
+        el: tgt,
+      };
+    }
+  }
+}
+
+if (window.performance && window.performance.now) {
+  var calculateNumOfServerRenderedPinImages = function(event) {
+    window.numOfServerRenderedPinImages = document.querySelectorAll('[data-pwt]').length;
+  }
+
+  document.addEventListener("DOMContentLoaded", calculateNumOfServerRenderedPinImages);
+  document.addEventListener('load', onImageLoad, true);
+
+  window.addEventListener('load', function() {
+    document.removeEventListener('load', onImageLoad, true);
+    document.removeEventListener('DOMContentLoaded', calculateNumOfServerRenderedPinImages);
+  });
+}
+</script>
+    
+        
+            <script  crossorigin="anonymous"  nonce='jqvgOVTOmX' src="https://s.pinimg.com/webapp/js/vendor-react-000116b64fca72b47197.js" defer></script>
+        
+        
+
+        
+            
+                
+                
+                    
+                        <script  crossorigin="anonymous"  nonce='jqvgOVTOmX' src="https://s.pinimg.com/webapp/js/entryChunk-www-unauth-7caa0553ad416e51401c.js" defer></script>
+                    
+                
+            
+            
+                
+            
+            
+        
+
+        
+
+        
+            <script  crossorigin="anonymous"  nonce='jqvgOVTOmX' src="https://s.pinimg.com/webapp/js/pjs-locale-en_US-lite-fcfea2d36bd8ad623eb1.js" defer></script>
+        
+      
+
+
+    
+        
+        
+            <link rel="stylesheet" href="https://s.pinimg.com/webapp/style/gestalt-030218a1ced4005a0980bf6ec03c3f57.css">
+        
+    
+
+
+<link rel="canonical" href="https://www.pinterest.com/pin/105342078763577068/">
+
+
+
+
+<link rel="apple-touch-icon" href="https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png">
+<link rel="mask-icon" sizes="any"
+    href="https://s.pinimg.com/webapp/style/images/pinterest_badge-ccdac53e.svg" color="#e60023">
+<link rel="icon" href="https://s.pinimg.com/webapp/style/images/favicon-fd1ea058.png">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Pinterest">
+<!-- Include manifest file in the page -->
+<link rel="manifest" href="/manifest.json/?_ngjs=1">
+
+<meta name="application-name" content="Pinterest">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png">
+
+
+<meta name="referrer" content="origin">
+<meta property="fb:app_id" content="274266067164">
+<meta property="og:site_name" content="Pinterest">
+
+
+
+
+<title>Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne&#39;s world</title>
+
+    
+    <meta property="al:android:app_name" name="al:android:app_name" content="Pinterest" data-app>
+
+    
+    <meta property="al:android:package" name="al:android:package" content="com.pinterest" data-app>
+
+    
+    <meta property="al:android:url" name="al:android:url" content="pinterest://pin/105342078763577068" data-app>
+
+    
+    <meta property="al:ios:app_name" name="al:ios:app_name" content="Pinterest" data-app>
+
+    
+    <meta property="al:ios:app_store_id" name="al:ios:app_store_id" content="429047995" data-app>
+
+    
+    <meta property="al:ios:url" name="al:ios:url" content="pinterest://pin/105342078763577068" data-app>
+
+    
+    <meta property="canonical_domain" name="canonical_domain" content="www.pinterest.com" data-app>
+
+    
+    <meta property="description" name="description" content="Mar 3, 2019- Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !!" data-app>
+
+    
+    <meta property="image_signature" name="image_signature" content="753feef8418e7fa302d87c9434ee3308" data-app>
+
+    
+    <meta property="landing_page_info" name="landing_page_info" content="{&#39;pin_id&#39;: u&#39;105342078763577068&#39;}" data-app>
+
+    
+    <meta property="locale" name="locale" content="en-US" data-app>
+
+    
+    <meta property="og:description" name="og:description" content="Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !!" data-app>
+
+    
+    <meta property="og:image" name="og:image" content="https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg" data-app>
+
+    
+    <meta property="og:image:height" name="og:image:height" content="829" data-app>
+
+    
+    <meta property="og:image:width" name="og:image:width" content="564" data-app>
+
+    
+    <meta property="og:see_also" name="og:see_also" content="http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg" data-app>
+
+    
+    <meta property="og:title" name="og:title" content="Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne&#39;s world" data-app>
+
+    
+    <meta property="og:type" name="og:type" content="pinterestapp:pin" data-app>
+
+    
+    <meta property="og:updated_time" name="og:updated_time" content="2019-03-03 06:58:27+00:00" data-app>
+
+    
+    <meta property="og:url" name="og:url" content="https://www.pinterest.com/pin/105342078763577068/" data-app>
+
+    
+    <meta property="pinterest" name="pinterest" content="nohover" data-app>
+
+    
+    <meta property="pinterestapp:pinboard" name="pinterestapp:pinboard" content="https://www.pinterest.com/meg91197/tia-carrere/" data-app>
+
+    
+    <meta property="pinterestapp:pinner" name="pinterestapp:pinner" content="https://www.pinterest.com/meg91197/" data-app>
+
+    
+    <meta property="pinterestapp:repins" name="pinterestapp:repins" content="20" data-app>
+
+    
+    <meta property="pinterestapp:source" name="pinterestapp:source" content="http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg" data-app>
+
+    
+    <meta property="theme-color" name="theme-color" content="#e60023" data-app>
+
+    
+    <meta property="twitter:app:android" name="twitter:app:android" content="com.pinterest" data-app>
+
+    
+    <meta property="twitter:app:id:ipad" name="twitter:app:id:ipad" content="429047995" data-app>
+
+    
+    <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="429047995" data-app>
+
+    
+    <meta property="twitter:app:url:googleplay" name="twitter:app:url:googleplay" content="pinterest://pin/105342078763577068" data-app>
+
+    
+    <meta property="twitter:app:url:ipad" name="twitter:app:url:ipad" content="pinterest://pin/105342078763577068" data-app>
+
+    
+    <meta property="twitter:app:url:iphone" name="twitter:app:url:iphone" content="pinterest://pin/105342078763577068" data-app>
+
+    
+    <meta property="twitter:card" name="twitter:card" content="summary_large_image" data-app>
+
+    
+    <meta property="twitter:description" name="twitter:description" content="Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !!" data-app>
+
+    
+    <meta property="twitter:image:src" name="twitter:image:src" content="https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg" data-app>
+
+    
+    <meta property="twitter:site" name="twitter:site" content="@pinterest" data-app>
+
+    
+    <meta property="twitter:title" name="twitter:title" content="Tia Carrere" data-app>
+
+
+
+    <link rel="alternate" hreflang="el" href="https://gr.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-IN" href="https://in.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en" href="https://www.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-IE" href="https://www.pinterest.ie/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="it" href="https://www.pinterest.it/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-CH" href="https://www.pinterest.ch/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="cs" href="https://cz.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="id" href="https://id.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="es" href="https://www.pinterest.es/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-CA" href="https://www.pinterest.ca/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-GB" href="https://www.pinterest.co.uk/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="ru" href="https://www.pinterest.ru/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="nl" href="https://nl.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="pt" href="https://br.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="no" href="https://no.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="tr" href="https://tr.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-AU" href="https://www.pinterest.com.au/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="de-AT" href="https://www.pinterest.at/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="pl" href="https://pl.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="fr" href="https://www.pinterest.fr/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="ro-RO" href="https://ro.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="de" href="https://www.pinterest.de/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="da" href="https://www.pinterest.dk/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-NZ" href="https://www.pinterest.nz/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="fi" href="https://fi.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="hu" href="https://hu.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="ja" href="https://www.pinterest.jp/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="pt-PT" href="https://www.pinterest.pt/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="es-AR" href="https://ar.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="ko" href="https://www.pinterest.co.kr/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="sv" href="https://www.pinterest.se/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="es-MX" href="https://www.pinterest.com.mx/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="sk" href="https://sk.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="es-CL" href="https://www.pinterest.cl/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="es-CO" href="https://co.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="en-ZA" href="https://za.pinterest.com/pin/105342078763577068/" />
+
+    <link rel="alternate" hreflang="tl-PH" href="https://www.pinterest.ph/pin/105342078763577068/" />
+
+
+
+    
+    <link rel="alternate" href="ios-app://429047995/pinterest/pin/105342078763577068" />
+
+    
+    <link rel="alternate" href="android-app://com.pinterest/pinterest/pin/105342078763577068" />
+
+    
+    <link rel="amphtml" href="https://www.pinterest.com/amp/pin/105342078763577068/" />
+
+
+
+</head><body><div data-reactcontainer></div><script type="application/json" id='initial-state'>{"ui": {"mainComponent": {"current": "UnauthPinPage", "initial": "UnauthPinPage", "locationToErrorMap": {}, "upwtActionName": 101}}, "location": {"pathname": "/pin/105342078763577068/", "history": [{"pathname": "/pin/105342078763577068/"}]}, "resources": {"fetching": {}, "data": {"PinPageResource": {"field_set_key=\"detailed\",get_page_metadata=true,id=\"105342078763577068\",main_module_name=\"UnauthPinReactPage\",pure_react=true,python_resource_prefetch=false": {"status": "success", "message": "ok", "code": 0, "data": {"origin_pinner": null, "domain": "movpins.com", "done_by_me": false, "videos": null, "tracking_params": "CwABAAAADDU3Mzg5MDI3MjMxOQA", "aggregated_pin_data": {"comment_count": 0, "did_it_data": {"recommend_scores": [{"count": 0, "score": 1}, {"count": 0, "score": 0.5}, {"count": 0, "score": 0}], "rating": -1, "user_count": 0, "tags": [], "videos_count": 0, "images_count": 0, "recommended_count": 0, "details_count": 0, "type": "aggregateddiditdata"}, "id": "4823115970465771154", "is_shop_the_look": false, "aggregated_stats": {"saves": 28, "done": 0}}, "hashtags": [], "mobile_link": null, "is_eligible_for_aggregated_comments": true, "images": {"736x": {"url": "https://i.pinimg.com/736x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 736, "height": 1082}, "60x60": {"url": "https://i.pinimg.com/60x60/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 60, "height": 60}, "474x": {"url": "https://i.pinimg.com/474x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 474, "height": 697}, "170x": {"url": "https://i.pinimg.com/170x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 170, "height": 250}, "600x315": {"url": "https://i.pinimg.com/600x315/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 600, "height": 315}, "564x": {"url": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 564, "height": 829}, "236x": {"url": "https://i.pinimg.com/236x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 236, "height": 347}, "136x136": {"url": "https://i.pinimg.com/136x136/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 136, "height": 136}, "orig": {"url": "https://i.pinimg.com/originals/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 1392, "height": 2048}}, "story_pin_data": null, "is_hidden": false, "id": "105342078763577068", "closeup_user_note": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "category": "celebrities", "access": [], "board_activity": null, "is_promoted": false, "shopping_flags": [], "description_html": "Cassandra Wong (Tia Carrere from Wayne&#39;s World 1992) SCHWING !!", "per_pin_analytics": {"id": "<Pin 105342078763577068>"}, "section": null, "buyable_product": null, "carousel_data": null, "is_promotable": true, "comment_count": 0, "board": {"category": null, "is_collaborative": false, "layout": "default", "description": "", "privacy": "public", "url": "/meg91197/tia-carrere/", "type": "board", "image_cover_url": "https://i.pinimg.com/200x150/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "pin_thumbnail_urls": ["https://i.pinimg.com/150x150/a8/52/c3/a852c3da77781c2900576885452388bf.jpg", "https://i.pinimg.com/150x150/18/13/a0/1813a0e08781e734e5d320f6a37eb057.jpg", "https://i.pinimg.com/150x150/27/2a/bd/272abdb3fd2db8f56b09a04c616cb873.jpg", "https://i.pinimg.com/150x150/25/33/c5/2533c58e12ef421e310870c00f0fbdcb.jpg", "https://i.pinimg.com/150x150/0f/e5/ba/0fe5ba4341097eb1d847a4340fbffa58.jpg"], "name": "Tia Carrere", "access": [], "collaborated_by_me": false, "owner": {"id": "105342216192399290"}, "map_id": "pinterest.ijz1714i", "followed_by_me": false, "should_show_board_activity": false, "id": "105342147473141796", "image_thumbnail_url": "https://i.pinimg.com/upload/105342147473141796_board_thumbnail_2016-10-01-04-13-06_29271_60.jpg"}, "link_domain": {"official_user": null}, "repin_count": 20, "type": "pin", "method": "extension", "is_whitelisted_for_tried_it": false, "grid_title": "", "story_pin_data_id": null, "attribution": null, "description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "price_value": 0.0, "price_currency": "USD", "native_creator": null, "last_repin_date": "Sun, 03 Mar 2019 06:58:27 +0000", "is_quick_promotable_by_pinner": false, "is_playable": false, "rich_metadata": null, "via_pinner": null, "link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "related_klps": [{"name": "Tia carrere"}, {"name": "Waynes world costume"}, {"name": "Wayne's world"}, {"name": "Couple halloween costumes"}, {"name": "Actresses"}, {"name": "Party on garth"}, {"name": "Family costumes"}, {"name": "25 year anniversary"}, {"name": "Women"}, {"name": "Celebrities"}, {"name": "25th anniversary"}, {"name": "Guitar girl"}, {"name": "Costumes"}, {"name": "Halloween costumes"}, {"name": "Dazed and confused"}, {"name": "Indian fashion"}], "has_required_attribution_provider": false, "is_repin": true, "page_metadata": {"pinterestapp:pinner": "https://www.pinterest.com/meg91197/", "og:image:height": "829", "og:see_also": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "locale": "en-US", "pinterestapp:repins": 20, "pinterestapp:source": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "og:url": "https://www.pinterest.com/pin/105342078763577068/", "links": [["amphtml", "https://www.pinterest.com/amp/pin/105342078763577068/"]], "title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "og:type": "pinterestapp:pin", "og:title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "twitter:title": "Tia Carrere", "landing_page_info": {"pin_id": "105342078763577068"}, "image_signature": "753feef8418e7fa302d87c9434ee3308", "description": "Mar 3, 2019- Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:image:width": "564", "canonical_domain": "www.pinterest.com", "og:image": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "pinterestapp:pinboard": "https://www.pinterest.com/meg91197/tia-carrere/", "og:updated_time": "2019-03-03 06:58:27+00:00", "twitter:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "twitter:image:src": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg"}, "compound_no_index_signals": null, "rich_recipe_top_ingredients": [], "buyable_product_availability": null, "closeup_description": null, "pinner": {"username": "meg91197", "first_name": "Meghan", "domain_url": "calmedthetidesofwar.tumblr.com", "is_default_image": false, "image_medium_url": "https://i.pinimg.com/75x75_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "explicitly_followed_by_me": false, "locale": "en-US", "verified_identity": {}, "location": "", "full_name": "Meghan Morris", "indexed": true, "domain_verified": false, "image_small_url": "https://i.pinimg.com/30x30_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "followed_by_me": false, "type": "user", "id": "105342216192399290"}, "is_native": false, "tracked_link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "created_at": "Mon, 02 May 2016 05:48:01 +0000", "title": "", "comments_disabled": false, "native_pin_stats": null, "promoter": null, "third_party_pin_owner": null, "image_signature": "753feef8418e7fa302d87c9434ee3308", "privacy": "public", "dominant_color": "#3a1520", "can_delete_did_it_and_comments": false, "content_sensitivity": {"is_sensitive_content": false}, "pin_join": {"visual_annotation": ["Waynes World Costume", "Tia Carrere", "Movie Costumes", "Family Costumes", "Star Wars", "Wayne's World", "Pictures", "Photos", "Joan Chen"], "annotations_with_links": {"Star Wars": {"url": "/topics/star-wars/", "name": "Star Wars"}, "In Living Color": {"url": "/kathyhenry1276/in-living-color/", "name": "In Living Color"}, "Wayne's World": {"url": "/bennett1403/waynes-world/", "name": "Wayne's World"}, "Pictures": {"url": "/topics/pictures/", "name": "Pictures"}, "Family Costumes": {"url": "/topics/family-costumes/", "name": "Family Costumes"}, "Joan Chen": {"url": "/wakaday/joan-chen/", "name": "Joan Chen"}, "Tia Carrere": {"url": "/cowgirlfan0035/tia-carrere/", "name": "Tia Carrere"}, "Photos": {"url": "/aramolara/photos/", "name": "Photos"}, "Waynes World Costume": {"url": "/nikkiwierl/waynes-world-costume/", "name": "Waynes World Costume"}, "Movie Costumes": {"url": "/duchesofthemoon/movie-costumes/", "name": "Movie Costumes"}}, "seo_description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "visual_descriptions": ["Cassandra Wong (Tia Carrere from Wayne's World -", "She became a household name after playing Cassandra Wong in both Wayne's World films. And on Monday, the stepped out for the Anniversary panel for the franchise in Los Angeles.", "Best movie bands: Crucial Taunt in Wayne's World. Catch Frank on Wednesday August.", "She's magically babelicious."], "canonical_pin": {"id": "105342078763577068"}}, "promoted_is_removable": false, "embed": null, "is_quick_promotable": false, "is_video": false, "full_path": "/pin/105342078763577068/", "did_it_disabled": false}, "http_status": 200}}}}}</script>
+            <script nonce='jqvgOVTOmX'>window.__INITIAL_STATE__ = JSON.parse(
+            document.getElementById('initial-state').textContent)</script>
+            
+                <script type="application/json" id='jsInit1'>{"initialPageContext": {"PAGE_LOAD_REQUEST_IDENTIFIER": "573890272319", "reportPeriodicResourceTimings": false, "reportInteractionTimings": false, "reportBrowserResourceTimings": true, "reportPageLoadTimings": true, "pinterestRID": "573890272319", "appVersion": "c7649b9", "stage": "prod-yongwen"}, "gaAccountNumbers": [], "resourceDataCache": [{"data": {"origin_pinner": null, "domain": "movpins.com", "done_by_me": false, "videos": null, "tracking_params": "CwABAAAADDU3Mzg5MDI3MjMxOQA", "aggregated_pin_data": {"comment_count": 0, "did_it_data": {"recommend_scores": [{"count": 0, "score": 1}, {"count": 0, "score": 0.5}, {"count": 0, "score": 0}], "rating": -1, "user_count": 0, "tags": [], "videos_count": 0, "images_count": 0, "recommended_count": 0, "details_count": 0, "type": "aggregateddiditdata"}, "id": "4823115970465771154", "is_shop_the_look": false, "aggregated_stats": {"saves": 28, "done": 0}}, "hashtags": [], "mobile_link": null, "is_eligible_for_aggregated_comments": true, "images": {"736x": {"url": "https://i.pinimg.com/736x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 736, "height": 1082}, "60x60": {"url": "https://i.pinimg.com/60x60/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 60, "height": 60}, "474x": {"url": "https://i.pinimg.com/474x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 474, "height": 697}, "170x": {"url": "https://i.pinimg.com/170x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 170, "height": 250}, "600x315": {"url": "https://i.pinimg.com/600x315/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 600, "height": 315}, "564x": {"url": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 564, "height": 829}, "236x": {"url": "https://i.pinimg.com/236x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 236, "height": 347}, "136x136": {"url": "https://i.pinimg.com/136x136/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 136, "height": 136}, "orig": {"url": "https://i.pinimg.com/originals/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 1392, "height": 2048}}, "story_pin_data": null, "is_hidden": false, "id": "105342078763577068", "closeup_user_note": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "category": "celebrities", "access": [], "board_activity": null, "is_promoted": false, "shopping_flags": [], "description_html": "Cassandra Wong (Tia Carrere from Wayne&amp;#39;s World 1992) SCHWING !!", "per_pin_analytics": {"id": "&lt;Pin 105342078763577068&gt;"}, "section": null, "buyable_product": null, "carousel_data": null, "is_promotable": true, "comment_count": 0, "board": {"category": null, "is_collaborative": false, "layout": "default", "description": "", "privacy": "public", "url": "/meg91197/tia-carrere/", "type": "board", "image_cover_url": "https://i.pinimg.com/200x150/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "pin_thumbnail_urls": ["https://i.pinimg.com/150x150/a8/52/c3/a852c3da77781c2900576885452388bf.jpg", "https://i.pinimg.com/150x150/18/13/a0/1813a0e08781e734e5d320f6a37eb057.jpg", "https://i.pinimg.com/150x150/27/2a/bd/272abdb3fd2db8f56b09a04c616cb873.jpg", "https://i.pinimg.com/150x150/25/33/c5/2533c58e12ef421e310870c00f0fbdcb.jpg", "https://i.pinimg.com/150x150/0f/e5/ba/0fe5ba4341097eb1d847a4340fbffa58.jpg"], "name": "Tia Carrere", "access": [], "collaborated_by_me": false, "owner": {"id": "105342216192399290"}, "map_id": "pinterest.ijz1714i", "followed_by_me": false, "should_show_board_activity": false, "id": "105342147473141796", "image_thumbnail_url": "https://i.pinimg.com/upload/105342147473141796_board_thumbnail_2016-10-01-04-13-06_29271_60.jpg"}, "link_domain": {"official_user": null}, "repin_count": 20, "type": "pin", "method": "extension", "is_whitelisted_for_tried_it": false, "grid_title": "", "story_pin_data_id": null, "attribution": null, "description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "price_value": 0.0, "price_currency": "USD", "native_creator": null, "last_repin_date": "Sun, 03 Mar 2019 06:58:27 +0000", "is_quick_promotable_by_pinner": false, "is_playable": false, "rich_metadata": null, "via_pinner": null, "link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "related_klps": [{"name": "Tia carrere"}, {"name": "Waynes world costume"}, {"name": "Wayne's world"}, {"name": "Couple halloween costumes"}, {"name": "Actresses"}, {"name": "Party on garth"}, {"name": "Family costumes"}, {"name": "25 year anniversary"}, {"name": "Women"}, {"name": "Celebrities"}, {"name": "25th anniversary"}, {"name": "Guitar girl"}, {"name": "Costumes"}, {"name": "Halloween costumes"}, {"name": "Dazed and confused"}, {"name": "Indian fashion"}], "has_required_attribution_provider": false, "is_repin": true, "page_metadata": {"pinterestapp:pinner": "https://www.pinterest.com/meg91197/", "og:image:height": "829", "og:see_also": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "locale": "en-US", "pinterestapp:repins": 20, "pinterestapp:source": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "og:url": "https://www.pinterest.com/pin/105342078763577068/", "links": [["amphtml", "https://www.pinterest.com/amp/pin/105342078763577068/"]], "title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "og:type": "pinterestapp:pin", "og:title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "twitter:title": "Tia Carrere", "landing_page_info": {"pin_id": "105342078763577068"}, "image_signature": "753feef8418e7fa302d87c9434ee3308", "description": "Mar 3, 2019- Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:image:width": "564", "canonical_domain": "www.pinterest.com", "og:image": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "pinterestapp:pinboard": "https://www.pinterest.com/meg91197/tia-carrere/", "og:updated_time": "2019-03-03 06:58:27+00:00", "twitter:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "twitter:image:src": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg"}, "compound_no_index_signals": null, "rich_recipe_top_ingredients": [], "buyable_product_availability": null, "closeup_description": null, "pinner": {"username": "meg91197", "first_name": "Meghan", "domain_url": "calmedthetidesofwar.tumblr.com", "is_default_image": false, "image_medium_url": "https://i.pinimg.com/75x75_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "explicitly_followed_by_me": false, "locale": "en-US", "verified_identity": {}, "location": "", "full_name": "Meghan Morris", "indexed": true, "domain_verified": false, "image_small_url": "https://i.pinimg.com/30x30_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "followed_by_me": false, "type": "user", "id": "105342216192399290"}, "is_native": false, "tracked_link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "created_at": "Mon, 02 May 2016 05:48:01 +0000", "title": "", "comments_disabled": false, "native_pin_stats": null, "promoter": null, "third_party_pin_owner": null, "image_signature": "753feef8418e7fa302d87c9434ee3308", "privacy": "public", "dominant_color": "#3a1520", "can_delete_did_it_and_comments": false, "content_sensitivity": {"is_sensitive_content": false}, "pin_join": {"visual_annotation": ["Waynes World Costume", "Tia Carrere", "Movie Costumes", "Family Costumes", "Star Wars", "Wayne's World", "Pictures", "Photos", "Joan Chen"], "annotations_with_links": {"Star Wars": {"url": "/topics/star-wars/", "name": "Star Wars"}, "In Living Color": {"url": "/kathyhenry1276/in-living-color/", "name": "In Living Color"}, "Wayne's World": {"url": "/bennett1403/waynes-world/", "name": "Wayne's World"}, "Pictures": {"url": "/topics/pictures/", "name": "Pictures"}, "Family Costumes": {"url": "/topics/family-costumes/", "name": "Family Costumes"}, "Joan Chen": {"url": "/wakaday/joan-chen/", "name": "Joan Chen"}, "Tia Carrere": {"url": "/cowgirlfan0035/tia-carrere/", "name": "Tia Carrere"}, "Photos": {"url": "/aramolara/photos/", "name": "Photos"}, "Waynes World Costume": {"url": "/nikkiwierl/waynes-world-costume/", "name": "Waynes World Costume"}, "Movie Costumes": {"url": "/duchesofthemoon/movie-costumes/", "name": "Movie Costumes"}}, "seo_description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "visual_descriptions": ["Cassandra Wong (Tia Carrere from Wayne's World -", "She became a household name after playing Cassandra Wong in both Wayne's World films. And on Monday, the stepped out for the Anniversary panel for the franchise in Los Angeles.", "Best movie bands: Crucial Taunt in Wayne's World. Catch Frank on Wednesday August.", "She's magically babelicious."], "canonical_pin": {"id": "105342078763577068"}}, "promoted_is_removable": false, "embed": null, "is_quick_promotable": false, "is_video": false, "full_path": "/pin/105342078763577068/", "did_it_disabled": false}, "resource": {"name": "PinPageResource", "options": {"pure_react": true, "main_module_name": "UnauthPinReactPage", "get_page_metadata": true, "field_set_key": "detailed", "python_resource_prefetch": false, "id": "105342078763577068"}}, "response": {"status": "success", "message": "ok", "code": 0, "data": {"origin_pinner": null, "domain": "movpins.com", "done_by_me": false, "videos": null, "tracking_params": "CwABAAAADDU3Mzg5MDI3MjMxOQA", "aggregated_pin_data": {"comment_count": 0, "did_it_data": {"recommend_scores": [{"count": 0, "score": 1}, {"count": 0, "score": 0.5}, {"count": 0, "score": 0}], "rating": -1, "user_count": 0, "tags": [], "videos_count": 0, "images_count": 0, "recommended_count": 0, "details_count": 0, "type": "aggregateddiditdata"}, "id": "4823115970465771154", "is_shop_the_look": false, "aggregated_stats": {"saves": 28, "done": 0}}, "hashtags": [], "mobile_link": null, "is_eligible_for_aggregated_comments": true, "images": {"736x": {"url": "https://i.pinimg.com/736x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 736, "height": 1082}, "60x60": {"url": "https://i.pinimg.com/60x60/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 60, "height": 60}, "474x": {"url": "https://i.pinimg.com/474x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 474, "height": 697}, "170x": {"url": "https://i.pinimg.com/170x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 170, "height": 250}, "600x315": {"url": "https://i.pinimg.com/600x315/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 600, "height": 315}, "564x": {"url": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 564, "height": 829}, "236x": {"url": "https://i.pinimg.com/236x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 236, "height": 347}, "136x136": {"url": "https://i.pinimg.com/136x136/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "width": 136, "height": 136}, "orig": {"url": "https://i.pinimg.com/originals/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "width": 1392, "height": 2048}}, "story_pin_data": null, "is_hidden": false, "id": "105342078763577068", "closeup_user_note": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "category": "celebrities", "access": [], "board_activity": null, "is_promoted": false, "shopping_flags": [], "description_html": "Cassandra Wong (Tia Carrere from Wayne&amp;#39;s World 1992) SCHWING !!", "per_pin_analytics": {"id": "&lt;Pin 105342078763577068&gt;"}, "section": null, "buyable_product": null, "carousel_data": null, "is_promotable": true, "comment_count": 0, "board": {"category": null, "is_collaborative": false, "layout": "default", "description": "", "privacy": "public", "url": "/meg91197/tia-carrere/", "type": "board", "image_cover_url": "https://i.pinimg.com/200x150/75/3f/ee/753feef8418e7fa302d87c9434ee3308.jpg", "pin_thumbnail_urls": ["https://i.pinimg.com/150x150/a8/52/c3/a852c3da77781c2900576885452388bf.jpg", "https://i.pinimg.com/150x150/18/13/a0/1813a0e08781e734e5d320f6a37eb057.jpg", "https://i.pinimg.com/150x150/27/2a/bd/272abdb3fd2db8f56b09a04c616cb873.jpg", "https://i.pinimg.com/150x150/25/33/c5/2533c58e12ef421e310870c00f0fbdcb.jpg", "https://i.pinimg.com/150x150/0f/e5/ba/0fe5ba4341097eb1d847a4340fbffa58.jpg"], "name": "Tia Carrere", "access": [], "collaborated_by_me": false, "owner": {"id": "105342216192399290"}, "map_id": "pinterest.ijz1714i", "followed_by_me": false, "should_show_board_activity": false, "id": "105342147473141796", "image_thumbnail_url": "https://i.pinimg.com/upload/105342147473141796_board_thumbnail_2016-10-01-04-13-06_29271_60.jpg"}, "link_domain": {"official_user": null}, "repin_count": 20, "type": "pin", "method": "extension", "is_whitelisted_for_tried_it": false, "grid_title": "", "story_pin_data_id": null, "attribution": null, "description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "price_value": 0.0, "price_currency": "USD", "native_creator": null, "last_repin_date": "Sun, 03 Mar 2019 06:58:27 +0000", "is_quick_promotable_by_pinner": false, "is_playable": false, "rich_metadata": null, "via_pinner": null, "link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "related_klps": [{"name": "Tia carrere"}, {"name": "Waynes world costume"}, {"name": "Wayne's world"}, {"name": "Couple halloween costumes"}, {"name": "Actresses"}, {"name": "Party on garth"}, {"name": "Family costumes"}, {"name": "25 year anniversary"}, {"name": "Women"}, {"name": "Celebrities"}, {"name": "25th anniversary"}, {"name": "Guitar girl"}, {"name": "Costumes"}, {"name": "Halloween costumes"}, {"name": "Dazed and confused"}, {"name": "Indian fashion"}], "has_required_attribution_provider": false, "is_repin": true, "page_metadata": {"pinterestapp:pinner": "https://www.pinterest.com/meg91197/", "og:image:height": "829", "og:see_also": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "locale": "en-US", "pinterestapp:repins": 20, "pinterestapp:source": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "og:url": "https://www.pinterest.com/pin/105342078763577068/", "links": [["amphtml", "https://www.pinterest.com/amp/pin/105342078763577068/"]], "title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "og:type": "pinterestapp:pin", "og:title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "twitter:title": "Tia Carrere", "landing_page_info": {"pin_id": "105342078763577068"}, "image_signature": "753feef8418e7fa302d87c9434ee3308", "description": "Mar 3, 2019- Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:image:width": "564", "canonical_domain": "www.pinterest.com", "og:image": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "pinterestapp:pinboard": "https://www.pinterest.com/meg91197/tia-carrere/", "og:updated_time": "2019-03-03 06:58:27+00:00", "twitter:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "twitter:image:src": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg"}, "compound_no_index_signals": null, "rich_recipe_top_ingredients": [], "buyable_product_availability": null, "closeup_description": null, "pinner": {"username": "meg91197", "first_name": "Meghan", "domain_url": "calmedthetidesofwar.tumblr.com", "is_default_image": false, "image_medium_url": "https://i.pinimg.com/75x75_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "explicitly_followed_by_me": false, "locale": "en-US", "verified_identity": {}, "location": "", "full_name": "Meghan Morris", "indexed": true, "domain_verified": false, "image_small_url": "https://i.pinimg.com/30x30_RS/6e/6e/27/6e6e27d23bafb0b7bedb79ff76ca0d15.jpg", "followed_by_me": false, "type": "user", "id": "105342216192399290"}, "is_native": false, "tracked_link": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "created_at": "Mon, 02 May 2016 05:48:01 +0000", "title": "", "comments_disabled": false, "native_pin_stats": null, "promoter": null, "third_party_pin_owner": null, "image_signature": "753feef8418e7fa302d87c9434ee3308", "privacy": "public", "dominant_color": "#3a1520", "can_delete_did_it_and_comments": false, "content_sensitivity": {"is_sensitive_content": false}, "pin_join": {"visual_annotation": ["Waynes World Costume", "Tia Carrere", "Movie Costumes", "Family Costumes", "Star Wars", "Wayne's World", "Pictures", "Photos", "Joan Chen"], "annotations_with_links": {"Star Wars": {"url": "/topics/star-wars/", "name": "Star Wars"}, "In Living Color": {"url": "/kathyhenry1276/in-living-color/", "name": "In Living Color"}, "Wayne's World": {"url": "/bennett1403/waynes-world/", "name": "Wayne's World"}, "Pictures": {"url": "/topics/pictures/", "name": "Pictures"}, "Family Costumes": {"url": "/topics/family-costumes/", "name": "Family Costumes"}, "Joan Chen": {"url": "/wakaday/joan-chen/", "name": "Joan Chen"}, "Tia Carrere": {"url": "/cowgirlfan0035/tia-carrere/", "name": "Tia Carrere"}, "Photos": {"url": "/aramolara/photos/", "name": "Photos"}, "Waynes World Costume": {"url": "/nikkiwierl/waynes-world-costume/", "name": "Waynes World Costume"}, "Movie Costumes": {"url": "/duchesofthemoon/movie-costumes/", "name": "Movie Costumes"}}, "seo_description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "visual_descriptions": ["Cassandra Wong (Tia Carrere from Wayne's World -", "She became a household name after playing Cassandra Wong in both Wayne's World films. And on Monday, the stepped out for the Anniversary panel for the franchise in Los Angeles.", "Best movie bands: Crucial Taunt in Wayne's World. Catch Frank on Wednesday August.", "She's magically babelicious."], "canonical_pin": {"id": "105342078763577068"}}, "promoted_is_removable": false, "embed": null, "is_quick_promotable": false, "is_video": false, "full_path": "/pin/105342078763577068/", "did_it_disabled": false}, "http_status": 200}}], "traceLoggerData": {"trace_id": "None", "ngapp_span_id": "None", "binary_annotations": [], "client_span_id": "4193609132626198", "path": "/pin/105342078763577068/", "annotations": [{"timestamp": 1553965156805.2969, "key": "pure_react_django_route_match"}, {"timestamp": 1553965157079.8298, "key": "html_generator.init_all_render_context"}, {"timestamp": 1553965157090.039, "key": "yielded_html-page-start"}, {"timestamp": 1553965157090.052, "key": "yielded_preload_images"}, {"timestamp": 1553965157090.096, "key": "yielded_head_end_body_begin"}, {"timestamp": 1553965157090.119, "key": "bodyData_worker_joined"}, {"timestamp": 1553965157090.902, "key": "yielded_placeholder"}]}, "context": {"unauth_id": "e92727b4837d4701b969d5f2f5024b94", "origin": "https://www.pinterest.com", "browser_locale": "en-US", "user_agent_platform": "other", "deep_link_default": "", "facebook_token": null, "is_authenticated": false, "is_retina": false, "triggerable_experiments_hash": "8760c480345f1f598df546ed43d4fd5c0efc11ea28a72582cf0a9ab31401233c41ebe2c3c6150adda787be39621556fe5b02e5842a8c17f02127e728a158f2a2", "browser_version": "73.0.3683", "app_shell": false, "parent_request_identifier": null, "deep_link_action": null, "is_data_saver": false, "mock_date": null, "is_tablet_agent": false, "visible_url": "/pin/105342078763577068/", "react_only": null, "triggerable_experiments": {"unauth_pin_perf_umbrella": "enabled"}, "utm_campaign": null, "ios_deep_link": "pinterest://pin/105342078763577068", "browser_type": 1, "deep_link": "", "is_amp": false, "should_use_sterling_token": false, "css_bundles": ["https://s.pinimg.com/webapp/style/common_desktop-b427186a9df73952a0c55a84bc72ce0d.css"], "from_open_in_app_click": null, "site_const": {"PIN_MARGIN": 14, "MAX_COLUMNS": 10, "MIN_COLUMNS": 3, "PRESENTER_BUTTON_MODULE_NAME": "DropdownButton", "PIN_WIDTH": 236}, "real_ip": "24.10.242.148", "is_bot": "false", "user_agent_platform_version": null, "invite_code": null, "invite_sender_experiments": {}, "request_host": "www.pinterest.com", "locale": "en-US", "in_mobile_fork_exp": false, "utm_medium": null, "placed_experiences": {}, "app_version": "c7649b9", "analysis_ua": {"os_name": "Windows 10", "app_type": 5, "browser_name": "Chrome", "os_version": "", "browser_version": "73.0.3683", "device_type": null, "device": "Other"}, "disable_css": true, "has_sterling_on_steroids_write_access": false, "sterling_on_steroids_access_token": null, "root_request_identifier": null, "android_deep_link": "pinterest://pin/105342078763577068", "seo_experiments": {"seo_unauth_pin_update_h2": null, "seo_pin_title_cleanup_v1": "control", "seo_unauth_web_minimize_related_pin_field_sets": null, "seo_new_similar_pin_title": null, "seo_pinner_follower_count_board": null, "seo_unauth_web_pin_grid_css_optimization": "enabled_25", "seo_board_vase_tags": null, "seo_amp_auth_app_install_gating": null, "seo__unauth_web_minimize_pin_field_sets": null, "seo_web_unauth_pin_page_node": null, "seo_unauth_self_harm_content_screens_2": null, "seo_pin_grid_style_format_optimization": "control_1", "seo_amp_ios_unauth_plp_direct_clickthrough": "enabled_rollout", "seo_web_unauth_plp_clickthrough": null, "seo_amp_unauth_pin_grid_view_button": "control", "seo_amp_full_node_board_page": null, "seo_canonical_profile_pinner_country_v1": null, "seo_bypass_cache_pin": null, "seo_sort_within_default_board_v3": null, "seo_web_perf_react_board_clear_resource_cache": null, "seo_web_unauth_hybrid_cooldown_3": null, "seo_unauth_pin_page_size_dec18": null, "seo_clean_up_pin_grid": null, "seo_mweb_web_full_node_related_pin_feed_resource_unauth": null, "seo_best_board_pins_v2": null, "seo_unauth_pin_perf_umbrella": null, "seo_amp_canonical": "control_3", "seo_amp_see_more_button_upsell": null, "seo_social_proof_description_v1": "control", "seo_aa_2019_h1": null, "seo_tablet_unauth_full_duplo_rest_of_world": null, "seo_test_full_node_seo": null, "seo_mweb_web_full_node_board_resource_v2": null, "seo_pin_page_annotation_based_noindex": "control_5", "seo_pin_use_countryvec_v2_locale": null, "seo_amp_auth_closeup_view_button_gate": "enabled", "seo_amp_unauth_pretty_format_stats": null, "seo_amp_full_node_pin_page": null}, "pure_react": true, "app_type": 5, "active_experiments": {"mweb_web_full_node_context_log_resource": "enabled"}, "utm_source": null, "is_full_page": true, "current_url": "https://www.pinterest.com/pin/105342078763577068/", "nag_browser_unsupported": false, "http_referrer": "https://www.google.com/", "path": "/pin/105342078763577068/", "is_mobile_agent": false, "site_type": 0, "deep_link_tracking": {"utm_medium": 2110, "cl_pin_id": "105342078763577068", "cl_current_page_url": "https://www.pinterest.com/pin/105342078763577068/", "cl_login_state": "None", "utm_content": null, "cl_http_referrer": "https://www.google.com/", "utm_source": 34}, "is_internal_ip": false, "csp_nonce": "jqvgOVTOmX", "language": "en", "invite_sender_id": "", "is_sterling_on_steroids": false, "referrer": null, "user_agent_can_use_native_app": false, "sterling_on_steroids_ldap": null, "browser_name": "Chrome", "batch_exp": true, "copytune_experiments": {"translations": {"View --- Text on a pin leading to a close up view. This is for users who don't have an account on Pinterest.": "Open", "Sign up with email --- the description of sign up with email button on sign up modal": "Continue with email", "Access our best ideas with a free account --- Value prop on desktop signup modal": "Unlimited free access to the world's best ideas", "Results --- Button label to go back to search results page": "\"{{ searchQuery }}\""}, "triggerable": {"Results --- Button label to go back to search results page": "copytune_web_search_term_in_back_button"}}, "utm_pai": null, "utm_term": null, "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36", "user_agent_is_ios_9_or_above": false, "country": "US", "error_template_path": "templates/error.nunjucks", "full_path": "/pin/105342078763577068/", "mdl_scheme_whitelist": ["com.amazon.mobile.shopping", "poshmark", "com.amazon.mobile.shopping.web", "wayfairapp", "checkout51", "ibotta-app", "kohlsapp", "jet", "zillow", "www.amazon.com", "itms-bookss", "itms", "collins", "com.shopbop.shopbop", "shopbop"], "request_identifier": "573890272319", "user": {"unauth_id": "e92727b4837d4701b969d5f2f5024b94"}}, "initialPageInfo": {"meta": {"al:android:app_name": "Pinterest", "al:android:package": "com.pinterest", "al:android:url": "pinterest://pin/105342078763577068", "al:ios:app_name": "Pinterest", "al:ios:app_store_id": "429047995", "al:ios:url": "pinterest://pin/105342078763577068", "canonical_domain": "www.pinterest.com", "description": "Mar 3, 2019- Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "image_signature": "753feef8418e7fa302d87c9434ee3308", "landing_page_info": "{'pin_id': u'105342078763577068'}", "locale": "en-US", "og:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "og:image": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "og:image:height": "829", "og:image:width": "564", "og:see_also": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "og:title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world", "og:type": "pinterestapp:pin", "og:updated_time": "2019-03-03 06:58:27+00:00", "og:url": "https://www.pinterest.com/pin/105342078763577068/", "pinterest": "nohover", "pinterestapp:pinboard": "https://www.pinterest.com/meg91197/tia-carrere/", "pinterestapp:pinner": "https://www.pinterest.com/meg91197/", "pinterestapp:repins": "20", "pinterestapp:source": "http://www.movpins.com/big/MV5BMjkxNTI1OTg5N15BMl5BanBnXkFtZTcwMjEyODY3Mw/waynes-world-(1992)-large-picture.jpg", "theme-color": "#e60023", "twitter:app:android": "com.pinterest", "twitter:app:id:ipad": "429047995", "twitter:app:id:iphone": "429047995", "twitter:app:url:googleplay": "pinterest://pin/105342078763577068", "twitter:app:url:ipad": "pinterest://pin/105342078763577068", "twitter:app:url:iphone": "pinterest://pin/105342078763577068", "twitter:card": "summary_large_image", "twitter:description": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !!", "twitter:image:src": "https://i.pinimg.com/564x/75/3f/ee/753feef8418e7fa302d87c9434ee3308--tia-carrere-waynes-world.jpg", "twitter:site": "@pinterest", "twitter:title": "Tia Carrere"}, "title": "Cassandra Wong (Tia Carrere from Wayne's World 1992) SCHWING !! | Tia Carrere in 2019 | Pinterest | Tia carrere, Waynes world costume and Wayne's world"}, "locale": "en-US", "isLoggedIn": false, "tree": {}, "canDebug": false}</script>
+                <iframe id='facebookPixel' src='https://www.pinterest.com/fb.html' sandbox='allow-scripts allow-same-origin' style='display: none;'></iframe>
+<script nonce='jqvgOVTOmX'>
+    function installFacebookPixel() {
+        const pixel = document.getElementById('facebookPixel');
+        window._sendFacebookPixel = pixel.contentWindow.fbq;
+    }
+    if (document.readyState === 'complete'){
+      installFacebookPixel();
+    }
+    window.addEventListener('load', installFacebookPixel);
+</script>
+<noscript>
+  <img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=130492214192672&ev=PageView&noscript=1'/>
+</noscript>
+</body></html>
