@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "wayne",
+        "img": "./imgs/wayne.jpg"
+    },
+    {
+        "id": 2,
+        "name": "garth",
+        "img": "./imgs/garth.jpg"
+    },
+    {
+        "id": 3,
+        "name": "cassandra",
+        "img": "./imgs/cassandra.jpg"
+    },
+    {
+        "id": 4,
+        "name": "benjamin",
+        "img": "./imgs/benjamin.jpg"
+    },
+    {
+        "id": 5,
+        "name": "stacy",
+        "img": "./imgs/stacy.jpg"
+    },
+    {
+        "id": 6,
+        "name": "noah",
+        "img": "./imgs/noah.jpg"
+    },
+    {
+        "id": 7,
+        "name": "kurt",
+        "img": "./imgs/kurt.jpg"
+    },
+    {
+        "id": 8,
+        "name": "guard",
+        "img": "./imgs/guard.jpg"
+    },
+    {
+        "id": 9,
+        "name": "alice",
+        "img": "./imgs/alice.jpg"
+    },
+    {
+        "id": 10,
+        "name": "tiny",
+        "img": "./imgs/tiny.jpg"
+    },
+    {
+        "id": 11,
+        "name": "terry",
+        "img": "./imgs/terry.jpg"
+    },
+    {
+        "id": 12,
+        "name": "dreamgirl",
+        "img": "./imgs/dreamgirl.jpg"
+    },
+]

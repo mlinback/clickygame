@@ -1,0 +1,9 @@
+body {
+    background: darkslategray;
+    background-size: 100px;
+}
+
+.margin {
+    margin-left: 75px;
+    margin-right: 75px;
+}
